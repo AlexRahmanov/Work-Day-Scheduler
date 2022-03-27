@@ -1,5 +1,5 @@
 
-# [Work Day Scheduler](https://alexrahmanov.github.io/Work-Day-Scheduler/)
+# [Work Day Scheduler Link](https://alexrahmanov.github.io/Work-Day-Scheduler/)
 
 # Programs:
 * VSCode
